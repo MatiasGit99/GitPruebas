@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 no cambies nada.
 Cambie sin querer
+=======
+no cambies nada
+cambie algo
+OP
+>>>>>>> 186b97ffe9bab346528976b6befd80501b7e8575
