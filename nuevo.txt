@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 no cambies nada
 cambie algo
+=======
+no cambies nada.
+Cambie sin querer
+>>>>>>> df934477b9de66e4bcabd8c0bf0b9c08c741b87a
